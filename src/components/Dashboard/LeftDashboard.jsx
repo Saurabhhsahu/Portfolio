@@ -19,17 +19,17 @@ const LeftDashboard = () => {
       </h2>
 
       <div className="flex gap-4 group">
-  <button className="bg-[#ff715b] text-xl text-white font-bold px-6 py-2 cursor-pointer transition-all duration-300 
+        <button className="bg-[#ff715b] text-xl text-white font-bold px-6 py-2 cursor-pointer transition-all duration-300 
                      group-hover:bg-transparent group-hover:text-[#ff715b] group-hover:border group-hover:border-[#ff715b] 
                      hover:bg-transparent hover:text-[#ff715b] hover:border hover:border-[#ff715b]">
-    Got a project?
-  </button>
-  <button className="border border-[#ff715b] text-xl text-white font-bold px-6 py-2 cursor-pointer transition-all duration-300 
+          Got a project?
+        </button>
+        <button className="border border-[#ff715b] text-xl text-white font-bold px-6 py-2 cursor-pointer transition-all duration-300 
                      group-hover:bg-[#ff715b] group-hover:text-white 
                      hover:bg-[#ff715b] hover:text-white">
-    My resume
-  </button>
-</div>
+          My resume
+        </button>
+      </div>
 
     </div>
   );

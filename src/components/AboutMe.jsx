@@ -3,7 +3,7 @@ import { Monitor, Smartphone, Server } from "lucide-react"
 
 function AboutMe() {
     return (
-        <div className="bg-[#121f28] text-white px-10 sm:px-20 md:px-24 lg:px-30 pt-20">
+        <div className="bg-[#121f28] text-white px-10 sm:px-20 md:px-24 lg:px-30 py-30">
             <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">  {/* Added items-center */}
                 
                 {/* Services Section */}
